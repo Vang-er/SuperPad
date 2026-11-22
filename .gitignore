@@ -1,0 +1,9 @@
+# KiCad temporary files
+*.kicad_prl
+*-backups/
+_autosave-*
+*.lck
+
+# OS files
+.DS_Store
+Thumbs.db
